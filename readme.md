@@ -60,6 +60,8 @@ false = "false"
 true  = "true"
 ~~~
 
+参考：https://github.com/miloyip/json-tutorial/blob/master/tutorial01/tutorial01.md
+
 ### git的版本管理：
 * git主要有四个区域，分别是工作空间、暂存区、本地仓库和远程仓库，具体关系如下图。
 ![image](https://user-images.githubusercontent.com/73393686/191430745-4473ad1b-7e06-4b37-abdc-b898f55ec135.png)
